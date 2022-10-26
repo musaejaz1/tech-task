@@ -1,5 +1,7 @@
 ## XM PHP Exercise v21.0.3
 
+This application gets values in the form and fetches historical data from an API and visualizes it in charts and tabular data. Upon request it send an email with the details of data requested to the email provided in the form.
+
 ## Introduction
 
 This application has three parts
